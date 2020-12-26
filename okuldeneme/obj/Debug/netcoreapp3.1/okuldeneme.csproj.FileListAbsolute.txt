@@ -1,0 +1,13 @@
+C:\Users\cetin\source\repos\okuldeneme\okuldeneme\bin\Debug\netcoreapp3.1\okuldeneme.exe
+C:\Users\cetin\source\repos\okuldeneme\okuldeneme\bin\Debug\netcoreapp3.1\okuldeneme.deps.json
+C:\Users\cetin\source\repos\okuldeneme\okuldeneme\bin\Debug\netcoreapp3.1\okuldeneme.runtimeconfig.json
+C:\Users\cetin\source\repos\okuldeneme\okuldeneme\bin\Debug\netcoreapp3.1\okuldeneme.runtimeconfig.dev.json
+C:\Users\cetin\source\repos\okuldeneme\okuldeneme\bin\Debug\netcoreapp3.1\okuldeneme.dll
+C:\Users\cetin\source\repos\okuldeneme\okuldeneme\bin\Debug\netcoreapp3.1\okuldeneme.pdb
+C:\Users\cetin\source\repos\okuldeneme\okuldeneme\obj\Debug\netcoreapp3.1\okuldeneme.csprojAssemblyReference.cache
+C:\Users\cetin\source\repos\okuldeneme\okuldeneme\obj\Debug\netcoreapp3.1\okuldeneme.AssemblyInfoInputs.cache
+C:\Users\cetin\source\repos\okuldeneme\okuldeneme\obj\Debug\netcoreapp3.1\okuldeneme.AssemblyInfo.cs
+C:\Users\cetin\source\repos\okuldeneme\okuldeneme\obj\Debug\netcoreapp3.1\okuldeneme.csproj.CoreCompileInputs.cache
+C:\Users\cetin\source\repos\okuldeneme\okuldeneme\obj\Debug\netcoreapp3.1\okuldeneme.dll
+C:\Users\cetin\source\repos\okuldeneme\okuldeneme\obj\Debug\netcoreapp3.1\okuldeneme.pdb
+C:\Users\cetin\source\repos\okuldeneme\okuldeneme\obj\Debug\netcoreapp3.1\okuldeneme.genruntimeconfig.cache
