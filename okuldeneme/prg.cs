@@ -1,7 +1,7 @@
         {
             try
             {
-                OleDbConnection baglanti = new OleDbConnection(@"Provider = Microsoft.ACE.OLEDB.12.0; Data Source = Z:\766\FormUyg.accdb");
+                OleDbConnection baglanti = new OleDbConnection(@"Provider = Microsoft.ACE.OLEDB.12.0; Data Source = ");
                 baglanti.Open();
                 string sorgu = string.Format("SELECT * FROM ogrenciler",
                 txtbolumkodu.Text, txtbolumadi.Text, txtbolumaciklama.Text);
@@ -18,7 +18,7 @@
         }
         
                 {
-            OleDbConnection baglanti = new OleDbConnection(@"Provider = Microsoft.ACE.OLEDB.12.0; Data Source = Z:\766\FormUyg.accdb");
+            OleDbConnection baglanti = new OleDbConnection(@"Provider = Microsoft.ACE.OLEDB.12.0; Data Source = ");
             baglanti.Open();
             string sorgu = string.Format("SELECT ogrencino,ogrenciad,ogrencisoyad,ogrenciadres FROM ogrenciler WHERE ogrencino ='{0}'", txtogrno.Text);
             OleDbCommand komut = new OleDbCommand(sorgu, baglanti);
@@ -35,7 +35,7 @@
         }
         
                 {
-            OleDbConnection baglanti = new OleDbConnection(@"Provider = Microsoft.ACE.OLEDB.12.0; Data Source = Z:\766\FormUyg.accdb");
+            OleDbConnection baglanti = new OleDbConnection(@"Provider = Microsoft.ACE.OLEDB.12.0; Data Source = ");
             baglanti.Open();
             string sorgu = "SELECT *FROM bolumler";
             OleDbDataAdapter veribagdastirici = new OleDbDataAdapter(sorgu, baglanti);
